@@ -3,6 +3,7 @@
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
+    - [Cartographie](#Cartographie)
     - [Synopsis](#Synopsis)
     - [Intention de départ](#Intention-de-départ)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
@@ -26,6 +27,10 @@
 
 # Intention ou concept
 ## Cartographie
+> Exemples
+![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
+![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
+![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
