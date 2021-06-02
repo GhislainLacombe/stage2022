@@ -33,13 +33,13 @@
 ![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
+## Intention de départ
+Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
 
 Le public est appelé à découvrir le mystère entourant cette difficile séparation.
-
-## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
