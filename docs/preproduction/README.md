@@ -4,8 +4,8 @@
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
     - [Cartographie](#Cartographie)
-    - [Synopsis](#Synopsis)
     - [Intention de départ](#Intention-de-départ)
+    - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
     - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
