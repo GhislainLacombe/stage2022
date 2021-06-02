@@ -15,7 +15,7 @@
     - [Logiciels requis](#Logiciels-requis)
     - [Ressources humaines requises](#Ressources-humaines-requises)
     - [Ressources spatiales requises (rangement et locaux)](#Ressources-spatiales-requises-(rangement-et-locaux))
-    - [Contraintes techniques et potentiels problèmes de production] (#Contraintes-techniques-et-potentiels-problèmes-de-production)
+    - [Contraintes techniques et potentiels problèmes de production](#Contraintes-techniques-et-potentiels-problèmes-de-production)
 3. [Planification de la production (budget et étapes de réalisation)](#Planification-de-la-production-(budget-et-étapes-de-réalisation))
     - [Budget prévisionnel](#Budget-prévisionnel)
     - [Échéancier global](#Échéancier-global)
