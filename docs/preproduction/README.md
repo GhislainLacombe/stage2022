@@ -113,26 +113,21 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
-> Moments et fonctions où une intervention humaine externe à l'équipe est nécessaire et pourquoi. Formaté en liste ou en lien vers un tableur Excel.
+> Formaté en liste ou en lien vers un tableur Excel.
 
-* 32 janvier, TTP, location de matériel 
-* 35 janvier, TTP, retour du matériel
+* TTP, location de matériel
+* Personne X, performeuse
+* Etc.
 
 ## Ressources spatiales requises (rangement et locaux)
-> Moments et spécifications des espaces utilisés formaté en liste ou lien vers un tableur Excel.
+> Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * 32 janvier au 35 janvier
-        * Projection vidéo dans le cyclo
-        * 6 heures
-    * 37 janvier au 39 janvier 
-        * Capatation vidéo
-        * 4 heures
+    * Projection vidéo dans le cyclo
+    * Capatation vidéo
 
 * Petit studio
-    * 42 janvier au 56 janvier 
-        * Enregsitrement audio
-        * 8 heures
+    * Enregsitrement audio
     
 # Planification de la production (budget et étapes de réalisation)
 ## Budget prévisionnel
@@ -145,9 +140,9 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
 https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
-*Dates importantes de diffusion :*
-- Pratique générale : 18 mars au soir et 19 mars (toute la journée)
-- Début de la diffusion : lundi 22 mars
+*Dates importantes :*
+- Première itération : lundi x novembre
+- Prototype finale : lundi x décembre
 - Présentation des projets devant public : jeudi 25 mars (soir)
 
 ## Liste des tâches à réaliser
@@ -158,7 +153,7 @@ Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:
 https://github.com/tim-montmorency/66B-modele_de_projet/issues
 
 ## Rôles et responsabilités des membres de l'équipe
-> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique, à la coordination de la diffusion et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors des rencontres d'équipe quotidiennes et hebdomadaires. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
+> Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
 **Étudiant E**
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
@@ -180,7 +175,6 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
 
 **Étudiant C**
-- Comité Diffusion et coordination de la diffusion (mise en ligne du Site Web, organisation de la plateforme et de l'événement de diffusion);
 - Installation et mise en place de la capture audiovidéo du projet en temps réel;
 - Programmation du module de captation des données;
 - Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
@@ -213,14 +207,7 @@ https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_q
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
 
 ## Moments des rencontres d'équipe
-Quotidien
-- **Chaque jour 9h00 (30min max)**: Rencontre statutaire d'équipe pour régler les urgences
-
 Hebdomadaire
-- **Mardi "x"h (environ 1h)** : Rencontre d'équipe avec professeur
-- **Vendredi 9h50 (environ 2h)** : Rencontre générale de classe
-- **Vendredi 13h (environ 2h)** : Rencontre de mise à jour d'équipe (Journal Web, suivis, mise à jour de l'échéancier, partage des tâches et autres)
+- **"y" jour "x"h (1h-2h)** : Rencontre de suivi de projet
 
 Autre: 
-- **Jeudi 10h (environ 1h30)** : Comité Diffusion
-- **Jeudi 14h (environ 1h30)** : Comité Technique
