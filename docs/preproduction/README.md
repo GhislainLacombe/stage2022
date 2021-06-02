@@ -52,13 +52,13 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
-### Schéma de branchement 
-
-![exemple de schema](medias/livestream_branchements.png)
-
 ### Plantation 
 
 ![exemple de plantation](medias/o3_plantation.svg)
+
+### Schéma de branchement 
+
+![exemple de schema](medias/livestream_branchements.png)
 
 ## Matériel de scénographie requis
 
