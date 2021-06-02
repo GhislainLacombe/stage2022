@@ -49,7 +49,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 ## Scénario, scénarimage ou document audio/visuel
 [Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
 
-# Planification technique (devis technique)
+# Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
 > Insérer plans, documents et schémas pertinents dans cette sectio.  
 
@@ -138,7 +138,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 | Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
 |                                                  |                                                       |                                                                                              |
 
-# Planification de la production (budget et étapes de réalisation)
+# Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
 
