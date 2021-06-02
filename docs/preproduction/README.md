@@ -103,6 +103,14 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 * Autre
     * Tout autre élément pertinant
 
+## Contraintes techniques et potentiels problèmes de production
+> Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
+
+| Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
+|--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+|                                                  |                                                       |                                                                                              |
+
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
