@@ -1,6 +1,6 @@
 # Allo
-** Comment ça va? **
-* bien! *
+**Comment ça va?**
+*bien!*
 Liste:
 - Quoi
 - Comment
