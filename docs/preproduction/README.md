@@ -3,7 +3,6 @@
 
 # Table des matières
 1. [Intention ou concept](#Intention-ou-concept)
-    - [Cartographie](#Cartographie)
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
@@ -27,23 +26,15 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
-## Cartographie
-> Exemples:
-
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Par ce projet, nous souhaitons tester les connaissances de cinéma des élèves du secondaire en art multimédia.
 
 ## Synopsis
-Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
-
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Les élèves sont apportés à choisir des modules posant des questions sur les leçons de cinéma qu'ils ont vu en classe. 
 
 ## Tableau d'ambiance (*moodboard*)
-> Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
+
 
 > Insérez directement des captures d'écran et liens vers des médias ici.
 
@@ -57,7 +48,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 
 - 15 icônes de navigation (pour les utilisateur-trices)
 - 8 montages d'image
-- 3 paysages sonores
+- 1 trame sonore (lorsqu'aucun module n'est activé)
 - 5 vidéos d'animation 2D
 - 3 textes poétiques
 - 7 modules multimédias (ex. captation des données, interprétation des données, contrôle d'éclairage, effets audiovisuels, contrôle vidéo, contrôle de la navigation utilisateur & des différents sous-modules, diffusion et interaction en ligne...).
