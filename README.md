@@ -1,4 +1,4 @@
-# Production du projet *66B-modele_de_projet*
+# Projet *Stage 2022*
 C'est ici qu'on dépose les fichiers et dossiers de la production. 
 
 Dans le dossier **docs**, on retrouve:
