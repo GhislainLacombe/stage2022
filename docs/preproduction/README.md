@@ -6,7 +6,6 @@
     - [Intention de départ](#Intention-de-départ)
     - [Synopsis](#Synopsis)
     - [Tableau d'ambiance (*moodboard*)](#Tableau-d'ambiance-(*moodboard*))
-    - [Scénario, scénarimage ou document audio/visuel](#Scénario,-scénarimage-ou-document-audio/visuel)
 2. [Contenu multimédia à intégrer](#Contenu-multimédia-à-intégrer)
     - [Inventaire du contenu multimédia](#Inventaire-du-contenu-multimédia)
     - [Univers artistique des éléments](#Univers-artistique-des-éléments-centraux)
@@ -35,13 +34,19 @@ Les élèves sont apportés à choisir des modules posant des questions sur les 
 
 ## Tableau d'ambiance (*moodboard*)
 
+Transition de boites aux questions : https://store.steampowered.com/app/1768340/XPLORASI3D/
 
-> Insérez directement des captures d'écran et liens vers des médias ici.
+Environnement du style du jeu Superhot
+![Jeu Superhot](medias/moodboard_superhot01.png)
+![Jeu Superhot](medias/moodboard_superhot02.png)
 
-[Exemple de tableaux d'ambiance visuels (images, couleurs, typographie)](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/tableau_ambiance/1_tableau_ambiance_exemple.pdf)
+Fil reliant les différents modules/TV pour les vidéos/questions
+![Jeu Superhot](medias/moodboard_fil01.png)
+![Jeu Superhot](medias/moodboard_fil02.png)
 
-## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+Inspirations de Module/TV futuristique pour les vidéos/questions
+![Jeu Superhot](medias/moodboard_tv01.png)
+![Jeu Superhot](medias/moodboard_tv02.png)
 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
