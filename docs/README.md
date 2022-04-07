@@ -1,6 +1,5 @@
-# Dossier de documentation du projet *66B-modele_de_projet*
+# Dossier de documentation du projet *Stage 2022*
 
 Dans ce dossier, on retrouve:
 
-* La préproduction du projet à réaliser en début de projet;
-* La page Web de l'expérience de votre projet s'il y a lieu
+* La préproduction du projet à réaliser en début de projet
