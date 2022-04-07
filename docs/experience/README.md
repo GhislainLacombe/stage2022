@@ -1,2 +1,2 @@
 # Expérience / Interface de diffusion
-Vous créez ici votre page Web où est vécue l'expérience de votre projet. Elle correspond à l'interface avec laquelle l'utilisateur-trice interagit.
+Mettre l'adresse du site du projet içi.
