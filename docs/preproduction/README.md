@@ -61,11 +61,11 @@ Inspirations de Module/TV futuristique pour les vidéos/questions
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+Non requis (Seulement pour éléments en réel)
 
 ### Schéma de branchement 
 
-Non requis
+Non requis (C'est un jeu en ligne)
 
 ## Matériel de scénographie requis
 
@@ -77,61 +77,47 @@ Non requis (Aucune scène en réel)
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
+    * Une paire d'écouteur
 
 * Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * N/A
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
-    * Console DMX
-    * Interface DMX USB
+    * N/A
 
 * Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
+    * 1 Chargeur pour ordinateur portable
 
 * Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
+    * 1 fil Ethernet
 
 * Ordinateur
     * 1 ordinateur portable 
     
 * Autre
-    * Tout autre élément pertinant
+    * N/A
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
-* [Max 8](https://cycling74.com/products/max)   
+* Maya (logiciel de création 3D)
+* Unity (logiciel d'édition de scène 3D) 
+* Visual Studio Code (logiciel d'édition de code)
+* Premiere (logiciel d'édition de vidéo)
 * [Unity 2019 lts](https://unity.com/)
 * [Open stage control](https://openstagecontrol.ammd.net/)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
-* TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Marc-Olivier Lacroix, Maître de stage
+* Marie-Michelle Ouellet, Superviseure de stage
+* Guillaume Arsenault, Personne ressource
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
-* Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
-
-* Petit studio
-    * Enregsitrement audio
+N/A
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
@@ -144,8 +130,6 @@ Non requis (Aucune scène en réel)
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget_capture_20210113.PNG)
-
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
 
 ## Échéancier global
