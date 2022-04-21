@@ -122,8 +122,13 @@ N/A
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
-|                                                  |                                                       |                                                                                              |
+| Hébergeur web non compatible | Trouver plusieurs hébergeurs possibles | N/A |
+| Manquer de temps | Utiliser des vidéos libre de droit au lieu d'en créer | N/A |
+| Changement de texture non réussi | Utiliser deux objets différents avec des filtres d'opacité | N/A |
+| Difficulté en c# | Utiliser stackoverflow et w3school pour trouver des solutions | N/A |
+| Modélisation non réussie | Utiliser des assets déjà créés libre de droit | N/A |
+| Changement de scène non réussi | Téléportation dans la même scène | N/A |
+| Trame musicale incomplète | Utiliser musique libre de droit comme trame de fond | N/A |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
