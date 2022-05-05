@@ -47,6 +47,10 @@ Inspirations de Module/TV futuristique pour les vidéos/questions
 ![Jeu Superhot](medias/moodboard_tv01.png)
 ![Jeu Superhot](medias/moodboard_tv02.png)
 
+Typographie: Biome light
+
+Palette de couleur: couleurs saturées, bleu, turquoise, violet
+
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 
