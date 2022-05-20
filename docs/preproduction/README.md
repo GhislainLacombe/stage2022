@@ -142,7 +142,7 @@ N/A
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/GhislainLacombe/stage2022/projects/1
 
 *Dates importantes :*
 - Première itération : lundi x novembre
